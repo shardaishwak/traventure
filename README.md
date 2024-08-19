@@ -20,6 +20,7 @@ This repository contains two submodules:
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Architecture](#architecture)
+- [Team Members](#team-members)
 
 ## Features
 
@@ -174,3 +175,8 @@ Your client application should now be running on `http://localhost:3000`, and yo
 
 For more detailed architecture planning and collaboration, visit our planning on [Excalidraw](https://excalidraw.com/#json=93V_lfHaprhUdDNqZ7hDo,bnOxTCY-qhXxyI7t2NkL_g).
 
+## Team Members
+
+- **Kshitij Goyal (Full Stack Developer)** - [kshitijgoyal7@gmail.com](mailto:kshitijgoyal7@gmail.com)
+- **Ishwak Sharda (Lead Full Stack Developer)** - [ishwak.sharda@gmail.com](mailto:ishwak.sharda@gmail.com)
+- **Sarah Kim (UX/UI Designer)** - [llastkim@gmail.com](mailto:llastkim@gmail.com)
