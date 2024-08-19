@@ -31,7 +31,7 @@ This repository contains two submodules:
 - **Multi-language Translation:** Real-time translation between English and Korean to assist with communication during your travels.
 - **Interactive Maps:** Discover places to visit, hotels, restaurants, and entertainment using Mapbox-powered interactive maps.
 - **Real-time Group Communication:** Users can create groups for itineraries and communicate with each other live using **Socket.io**, making trip planning collaborative and more efficient.
-- **Seamless Integration:** Connects with multiple APIs, including Amadeus for flight information, Mapbox for place recommendations, and more.
+- **Seamless Integration:** Connects with multiple APIs, including Amadeus and Google Flights for flight information, Mapbox for place recommendations, and more.
 
 ## Getting Started
 
@@ -138,7 +138,7 @@ Your client application should now be running on `http://localhost:3000`, and yo
   - **Hotel Search:** Search for and view hotels in your destination area with Mapbox’s detailed map features, including filters for price range, star ratings, and user reviews.
   - **Route Planning:** Plan your routes within the city, whether by foot, car, or public transportation, with Mapbox’s interactive mapping and direction services.
 
-### Flight Search and Booking with Amadeus
+### Flight Search and Booking with Amadeus and Google Flights
 
 - **Flight Search:** Seamlessly search for flights using the Amadeus Travel APIs and Google Flights API, which provide comprehensive flight options based on your criteria such as destination, departure date, and number of passengers.
   
