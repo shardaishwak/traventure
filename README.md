@@ -140,7 +140,7 @@ Your client application should now be running on `http://localhost:3000`, and yo
 
 ### Flight Search and Booking with Amadeus
 
-- **Flight Search:** Seamlessly search for flights using the Amadeus Travel APIs, which provide comprehensive flight options based on your criteria such as destination, departure date, and number of passengers.
+- **Flight Search:** Seamlessly search for flights using the Amadeus Travel APIs and Google Flights API, which provide comprehensive flight options based on your criteria such as destination, departure date, and number of passengers.
   
   - **Filtering Options:** Narrow down your search by airline, flight duration, number of stops, and price range.
   - **Real-Time Availability:** Get real-time flight availability and pricing to make informed booking decisions.
