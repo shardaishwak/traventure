@@ -173,7 +173,7 @@ Your client application should now be running on `http://localhost:3000`, and yo
 
 ![Architecture Diagram](/architecture.svg)
 
-For more detailed architecture planning and collaboration, visit our planning on [Excalidraw](https://excalidraw.com/#json=93V_lfHaprhUdDNqZ7hDo,bnOxTCY-qhXxyI7t2NkL_g).
+For more detailed architecture planning and collaboration, visit our planning on [Excalidraw](https://excalidraw.com/#json=fI2JVSLspgTbyyHLzAM0i,8dq7we4K8f4h-kubCYzU8Q).
 
 ## Team Members
 
