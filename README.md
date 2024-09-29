@@ -7,9 +7,9 @@ This repository contains two submodules:
 
 ---
 
-# Traventure
+# Itinerar
 
-**Traventure** is a state-of-the-art travel application designed to revolutionize how you plan, book, and manage your trips. Whether you're traveling solo or with a group, Traventure provides an all-in-one platform for creating and managing detailed itineraries, booking accommodations and flights, and even handling communication in multiple languages. Leveraging AI-powered assistance and advanced APIs, Traventure simplifies every aspect of your travel experience, allowing you to focus on the journey itself.
+**Itinerar** is a state-of-the-art travel application designed to revolutionize how you plan, book, and manage your trips. Whether you're traveling solo or with a group, Traventure provides an all-in-one platform for creating and managing detailed itineraries, booking accommodations and flights, and even handling communication in multiple languages. Leveraging AI-powered assistance and advanced APIs, Traventure simplifies every aspect of your travel experience, allowing you to focus on the journey itself.
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ This repository contains two submodules:
 
 ## Getting Started
 
-To get started with Traventure, follow the instructions below.
+To get started with Itinerar, follow the instructions below.
 
 ### Prerequisites
 
