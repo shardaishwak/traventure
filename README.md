@@ -69,6 +69,7 @@ Ensure you have the following installed:
 - **Other:**
   - Multer for file uploads
   - Axios for making HTTP requests
+  - Stripe for handling payments
 
 ## Installation
 
@@ -106,6 +107,7 @@ Your client application should now be running on `http://localhost:3000`, and yo
 - **Create Itinerary:** Use the sidebar to create and manage itineraries. All itineraries are stored securely in MongoDB and can be accessed anytime.
 - **View Itineraries:** A three-column layout allows you to navigate, manage bookings, and view itinerary details side by side.
 - **Group Communication:** Utilize the integrated chat for discussing and coordinating plans within group itineraries.
+
 
 ### Real-time Group Communication
 
